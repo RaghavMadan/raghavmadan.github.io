@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://raghavmadan.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: https://raghavmadan.github.io/talks/    
 
   - title: "Teaching"
     url: /teaching/    

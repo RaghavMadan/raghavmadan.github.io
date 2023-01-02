@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,6 +12,24 @@ I am a PhD student at the Biomedical and Health Informatics Department at Univer
 
 Education 
 ======
+
+University of Washington
+PhD Biomedical and Health Informatics
+2020 - Ongoing 
+
+Carnegie Mellon University 
+MS Engineering, Technology and Innovation Management
+2018 - 2020
+
+Manipal Institute of Technology 
+BS Mechanical Engineering 
+2010 - 2014
+
+
+Research Experience 
+======
+
+
 
 Publications 
 ======

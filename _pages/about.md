@@ -13,12 +13,14 @@ I am a Neuroinformatics researcher, pursuing a PhD in Biomedical and Health Info
 Education 
 ======
 
-* PhD, Biomedical and Health Informatics
-    University of Washington                                 2020 - Ongoing 
-* MS, Engineering, Technology and Innovation Management
-    Carnegie Mellon University                                         2019 
-* BE, Mechanical Engineering
-    Manipal Institute of Technology                             2010 - 2014
+* PhD, Biomedical and Health Informatics,
+  University of Washington                                 2020 - Ongoing
+
+* MS, Engineering, Technology and Innovation Management,
+  Carnegie Mellon University                                         2019 
+
+* BE, Mechanical Engineering,
+  Manipal Institute of Technology                             2010 - 2014
 
 
 Research Experience 

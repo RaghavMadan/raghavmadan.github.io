@@ -13,17 +13,9 @@ I am a PhD student at the Biomedical and Health Informatics Department at Univer
 Education 
 ======
 
-* University of Washington
-* PhD Biomedical and Health Informatics
-* 2020 - Ongoing 
-
-* Carnegie Mellon University 
-* MS Engineering, Technology and Innovation Management
-* 2018 - 2020
-
-* Manipal Institute of Technology 
-* BS Mechanical Engineering 
-* 2010 - 2014
+* PhD Biomedical and Health Informatics, University of Washington, 2020 - Ongoing 
+* MS Engineering, Technology and Innovation Management, Carnegie Mellon University, 2018-2020 
+* BS Mechanical Engineering, Manipal Institute of Technology, 2010 - 2014
 
 
 Research Experience 

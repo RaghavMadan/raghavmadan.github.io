@@ -14,13 +14,16 @@ Education
 ======
 
 * PhD, Biomedical and Health Informatics,
-  University of Washington                                 2020 - Ongoing
+  University of Washington,                                 
+  2020 - Ongoing
 
 * MS, Engineering, Technology and Innovation Management,
-  Carnegie Mellon University                                         2019 
+  Carnegie Mellon University,
+  2019 
 
 * BE, Mechanical Engineering,
-  Manipal Institute of Technology                             2010 - 2014
+  Manipal Institute of Technology,
+  2010 - 2014
 
 
 Research Experience 

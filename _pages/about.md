@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Biomedical and Health Informatics Department at University of Washington, advised by [Prof. John Gennari](http://faculty.washington.edu/gennari/) and [Dr. Paul Crane](https://depts.washington.edu/mbwc/about/profile/paul-crane). My research is focussed on developing machine learning models to detect cognitive decline.
+I am a Neuroinformatics researcher, pursuing a PhD in Biomedical and Health Informatics from University of Washington, advised by [Prof. John Gennari](http://faculty.washington.edu/gennari/) and [Dr. Paul Crane](https://depts.washington.edu/mbwc/about/profile/paul-crane). My current research is focussed on developing spatial models to predict the spread of neuropathological protein aggregates linked with neurodegeneration in Alzheimer's disease and related disorders.
 
 Education 
 ======

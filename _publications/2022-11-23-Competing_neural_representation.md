@@ -12,5 +12,3 @@ citation: 'Bond, K., Rasero, J., Madan, R., Bahuguna, J., Rubin, J., & Verstynen
 
 
 [Download paper here](https://www.biorxiv.org/content/10.1101/2022.10.03.510668v2)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

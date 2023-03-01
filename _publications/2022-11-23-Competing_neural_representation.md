@@ -10,5 +10,4 @@ paperurl: 'https://www.biorxiv.org/content/10.1101/2022.10.03.510668v2'
 citation: 'Bond, K., Rasero, J., Madan, R., Bahuguna, J., Rubin, J., & Verstynen, T. (2022). Competition between action plans tracks with evidence accumulation during flexible decision-making.'
 ---
 
-
 [Download paper here](https://www.biorxiv.org/content/10.1101/2022.10.03.510668v2)

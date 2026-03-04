@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Raghav Madan"
-  avatar           : "profile.png"
+  avatar           : "https://raghavmadan.github.io/files/about_me_image.jpg"
   bio              : "Neuroinformatics Researcher"
   location         : "Seattle, WA, USA"
   employer         :

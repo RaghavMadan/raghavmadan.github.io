@@ -1,0 +1,30 @@
+# Research/Projects page content; images extracted from Website_input_doc.docx
+- title: "NeuroPathPredict (NPP)"
+  subtitle: "Spatial modeling of neuropathology in unsampled brain regions"
+  description: "NeuroPathPredict (NPP) is a computational framework for estimating whole-brain distributions of Alzheimer's disease pathology from sparse regional samples. It integrates ex vivo MRI, quantitative digital histopathology, and spatial statistical learning, including universal kriging and machine learning, to model disease as a continuous spatial process. By embedding multimodal data within a voxel-level representation, NPP enables scalable, cross-cohort inference of neurodegenerative spread."
+  repo_url: "https://github.com/RaghavMadan/NeuroPathPredict"
+  image: "project_npp.png"
+
+- title: "QNPtoVox (Quantitative Neuropathology to Voxels)"
+  subtitle: "Mapping 2D quantitative pathology into 3D brain space"
+  description: "QNPtoVox is an open-source pipeline that transforms two-dimensional histopathology measurements into three-dimensional measurements in a standardized brain space. Registering tissue slabs to ex vivo MRI and MNI coordinates enables direct integration of digital pathology with neuroimaging analyses. The system bridges microscopic and macroscopic data scales, supporting voxel-level modeling and reproducible multimodal brain mapping."
+  repo_url: "https://github.com/RaghavMadan/QNPtoVox"
+  image: "project_qnptovox.png"
+
+- title: "I-BIS (Integrated Brain Information System)"
+  subtitle: "Voxel-level covariate engineering for large-scale brain modeling"
+  description: "I-BIS is a scalable voxel-level feature engineering framework designed to support integrative spatial modeling. It constructs a high-resolution brain representation (~50 million voxels) and associates each voxel with thousands of engineered covariates derived from imaging, atlases, and spatial priors. By transforming heterogeneous brain data into structured inputs for modeling, I-BIS provides reusable infrastructure for multimodal statistical learning."
+  repo_url: "https://github.com/RaghavMadan/IBIS"
+  image: "project_ibis.png"
+
+- title: "Neural Competition in Human Decision-Making"
+  subtitle: "Systems-level fMRI analysis of evidence accumulation"
+  description: "At the Cognitive Axon Lab at Carnegie Mellon University, I contributed to a systems neuroscience study examining how competing neural representations shape evidence accumulation during decision-making. Using large-scale fMRI datasets and generalized linear modeling, we analyzed cortico-basal ganglia-thalamic circuits involved in adaptive choice behavior. This work, published in eLife, grounded my computational modeling in experimental circuit neuroscience."
+  repo_url: "https://github.com/kalexandriabond/loki_1"
+  image: "project_neural_competition.jpeg"
+
+- title: "SABHI — Sustainable and Accessible Brain Health Initiative"
+  subtitle: "Designing scalable models for early neurological care"
+  description: "SABHI was a translational initiative that explored scalable, data-informed approaches to the early detection and management of neurological disorders in resource-constrained settings. The project examined how digital screening, risk stratification, and health system design could be integrated into sustainable care models. It reflects my broader interest in connecting computational neuroscience with real-world implementation."
+  repo_url: ""
+  image: "project_sabhi.png"

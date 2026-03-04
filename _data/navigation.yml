@@ -1,22 +1,8 @@
-# main links links
+# main links
 main:
-  - title: "Publications"
-    url: https://raghavmadan.github.io/publications/
-
-  # - title: "Talks"
-  #   url: https://raghavmadan.github.io/talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "About me"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Research/Projects"
+    url: /research-projects/

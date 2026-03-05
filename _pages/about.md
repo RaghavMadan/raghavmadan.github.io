@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Computational neuroscientist working at the intersection of neuroimaging, digital histopathology, and spatial statistical modeling."
+excerpt: "Computational Neuroscientist"
 author_profile: true
 redirect_from:
   - /about/

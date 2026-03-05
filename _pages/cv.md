@@ -13,7 +13,9 @@ redirect_from:
 raghavmadan2010@gmail.com · [LinkedIn](https://www.linkedin.com/in/raghav-madan) · +1 (412) 636-2649  
 Seattle, WA, USA
 
-**Interests:** Spatial neuroscience modeling · Human cognition · Neurodegenerative science · Neurodevelopmental science · Health tech innovation · Neurotech
+## Interests
+
+Spatial neuroscience modeling · Human cognition · Neurodegenerative science · Neurodevelopmental science · Health tech innovation · Neurotech
 
 ---
 
@@ -71,7 +73,7 @@ Seattle, WA, USA
 * Reduced defect losses by ~$100K annually through automated audit workflows.
 * Managed $350K annual R&D budget using data-centered optimization.
 
-**Product Design Engineer R&D, Michelin India Technology Center | Michelin Thailand** (2014 – 2016)
+**Product Design Engineer R&D, Michelin India Technology Center / Michelin Thailand** (2014 – 2016)
 
 * Led technical transfer of product portfolio across Asia and Europe.
 * Filed two design patents supporting Michelin's innovation pipeline.
@@ -81,19 +83,10 @@ Seattle, WA, USA
 
 ## Publications
 
-<ul>
-{% for post in site.publications reversed %}
-  <li>
-    <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>.
-    {% if post.venue %}<em>{{ post.venue }}</em>{% endif %}
-    {% if post.date %}{{ post.date | date: "%Y" }}.{% endif %}
-    {% if post.paperurl %} <a href="{{ post.paperurl }}">[Link]</a>{% endif %}
-  </li>
-{% endfor %}
-</ul>
-
 * Madan R. (2026). *NeuroPathPredict: A data-driven paradigm for spatial modeling of Alzheimer's Disease neuropathology.* Ph.D. Dissertation, University of Washington.
 * Madan R. et al. (2026). *QNPtoVox: A methods pipeline for mapping 2D quantitative neuropathology to 3D MNI voxel space.* (Under review)
+* Bond K., Rasero J., Madan R., et al. (2023). *Competing neural representations of choice shape evidence accumulation in humans.* eLife. [Link](https://doi.org/10.7554/eLife.86442)
+* Eppig J.S., Madan R., et al. (2021). *Comparison of actuarial and conventional MCI criteria in a community-based prospective cohort study: The Adult Changes in Thought (ACT) study.* Alzheimer's & Dementia. [Link](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.056303)
 
 ---
 

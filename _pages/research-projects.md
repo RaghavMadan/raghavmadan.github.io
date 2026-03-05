@@ -12,7 +12,7 @@ Below are selected research projects and software I have developed or contribute
 {% for project in site.data.projects %}
 ---
 ### {{ project.title }}
-**{{ project.subtitle }}**
+{{ project.subtitle }}
 
 {% if project.image != nil and project.image != "" %}
 <img src="{{ base_path }}/files/{{ project.image }}" alt="{{ project.title }}" style="max-width: 100%; height: auto; margin: 0.5em 0;" />

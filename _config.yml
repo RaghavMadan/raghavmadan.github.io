@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Raghav Madan"
   avatar           : "https://raghavmadan.github.io/files/about_me_image.jpg"
-  bio              : "Neuroinformatics Researcher"
+  bio              : "Computational Scientist"
   location         : "Seattle, WA, USA"
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "RaghavMadan2"
+  twitter          :
   vine             :
   weibo            :
   xing             :

@@ -83,7 +83,7 @@
   }
 
   img {
-    max-width: 395px;  /* ~2.25x default 175px for larger profile photo */
+    max-width: 600px;  /* ~2.25x default 175px for larger profile photo */
     border-radius: 50%;
 
     @include breakpoint($large) {
